@@ -1,9 +1,9 @@
 # HTML Bootcamp #2
 Du skal i denne opgave arbejde med at replikere en hjemmeside i HTML.
 
-<firgure>
-<img src="./assets/information.png" width="300">
-<figcaption><a href="./assets/information.png">Hent billedet her</a></figcaption>
+<figure>
+<img src="./assets/sandmen.png" width="300">
+<figcaption><a href="./assets/sandmen.png">Hent billedet her</a></figcaption>
 </figure>
 
 ## Opgave
