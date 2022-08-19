@@ -2,8 +2,8 @@
 Du skal i denne opgave arbejde med at replikere en hjemmeside i HTML.
 
 <figure>
-<img src="./assets/sandmen.png" width="300">
-<figcaption><a href="./assets/sandmen.png">Hent billedet her</a></figcaption>
+<img src="./assets/sandman.png" width="300">
+<figcaption><a href="./assets/sandman.png">Hent billedet her</a></figcaption>
 </figure>
 
 ## Opgave
